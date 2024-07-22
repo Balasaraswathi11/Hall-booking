@@ -13,7 +13,7 @@ This API accomplishes the following tasks:
 - Customer Booking Details: Shows how many times a customer has booked a room, including detailed booking information.
 
 
-##API Endpoints: `http://localhost:5000/api/room`
+## API Endpoints: `http://localhost:5000/api/room`
 1. **/createrooms**: Add a new room with specific attributes such as number of seats, amenities, and hourly pricing.
 2. **/bookroom**: Make a reservation for a room with customer details, date, start time, end time, and room ID.
 3. **/getbookedrooms**: Retrieve detailed information about all rooms, including their booking status and related data.
